@@ -1,2 +1,2 @@
-# Repositório Desafio Git/GitHub DIO
+# Repositório Aulas Bootcamp DIO Impulso
 Desafio primeiro repositório GitHub DIO
